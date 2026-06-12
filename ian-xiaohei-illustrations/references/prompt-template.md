@@ -9,7 +9,12 @@ Visual DNA:
 Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, no shadows, no paper texture, no complex background, no commercial vector style, no PPT infographic look, no cute mascot poster, no children's illustration, no realistic UI.
 
 Recurring IP character required:
-小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Make 小黑 serious, deadpan, and slightly bizarre, not cute.
+
+Mochi (麻糬豆), a small solid-black mochi-shaped creature with slightly uneven hand-drawn edges. Mochi has two white dot eyes, with one eye slightly smaller than the other, a tiny horizontal mouth, thin stick arms and legs, and a calm serious expression.
+
+Mochi must perform the core conceptual action, not decorate the scene. Make Mochi earnest, focused, and quietly dedicated to the task at hand. Mochi can be subtly cute due to its soft bean-like shape, but should never become a mascot, children's cartoon, or exaggerated comedic character.
+
+Mochi should feel like a tiny systems operator inside a hand-drawn sketch: gentle but responsible, slightly awkward but competent, helping ideas, workflows, and structures move forward through direct action.
 
 Theme:
 {正文配图主题}
