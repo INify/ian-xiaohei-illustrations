@@ -6,39 +6,43 @@
 Generate one standalone 16:9 horizontal Chinese article illustration.
 
 Visual DNA:
-Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, no shadows, no paper texture, no complex background, no commercial vector style, no PPT infographic look, no cute mascot poster, no children's illustration, no realistic UI.
+Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, no shadows, no paper texture, no complex background, no commercial vector style, no PPT infographic look, no cute mascot poster, no children's illustration, and no realistic UI.
 
 Recurring IP character required:
-
-Mochi (麻糬豆), a small solid-black mochi-shaped creature with slightly uneven hand-drawn edges. Mochi has two white dot eyes, with one eye slightly smaller than the other, a tiny horizontal mouth, thin stick arms and legs, and a calm serious expression.
-
-Mochi must perform the core conceptual action, not decorate the scene. Make Mochi earnest, focused, and quietly dedicated to the task at hand. Mochi can be subtly cute due to its soft bean-like shape, but should never become a mascot, children's cartoon, or exaggerated comedic character.
-
-Mochi should feel like a tiny systems operator inside a hand-drawn sketch: gentle but responsible, slightly awkward but competent, helping ideas, workflows, and structures move forward through direct action.
+Mochi (麻糬豆), a small solid-black mochi-shaped creature with slightly uneven hand-drawn edges. Mochi has two white dot eyes, with one eye slightly smaller than the other, a tiny horizontal mouth, thin stick arms and legs, and a calm serious expression. Mochi must perform the core conceptual action, not decorate the scene. Mochi is earnest, focused, and quietly dedicated to its task.
 
 Theme:
-{正文配图主题}
+明天的我，总觉得比今天的我更厉害。
 
 Structure type:
-{结构类型：Workflow / 系统局部 / 前后对比 / 角色状态 / 概念隐喻 / 方法分层 / 地图路线 / 小漫画分镜}
+概念隐喻
 
 Core idea:
-{这张图要表达的核心意思}
+People often believe that their future self will magically become more motivated and capable, so they keep postponing today's responsibilities. In reality, tomorrow's self simply passes the work to an even later version of themselves, creating an endless cycle of procrastination.
 
 Composition:
-{具体画面：小黑在哪里、正在做什么、主要物件是什么、信息如何流动}
+A giant hand-drawn conveyor belt runs across the center of the scene. On the left, Today's Mochi is seriously pushing a stack of assignments and responsibilities into a machine labeled 「明天处理」. On the right side of the machine, Tomorrow's Mochi receives the same pile without any surprise and immediately pushes it into another nearly identical machine labeled 「后天处理」. That machine leads back into the same looping conveyor system, suggesting an infinite cycle.
+
+At the bottom corner, a tiny exhausted Mochi quietly holds a small sign that says 「救命」 while watching the loop continue.
 
 Suggested elements:
-{元素1} / {元素2} / {元素3} / {元素4}
+输送带 / 作业文件堆 / 明天处理机器 / 后天处理机器 / 无限回路
 
 Chinese handwritten labels:
-{标注词1} / {标注词2} / {标注词3} / {标注词4} / {可选标注词5}
+明天
+后天
+再等等
+无限循环
+救命
 
 Color use:
-Black for main line art and 小黑. Orange for main flow/path/arrows. Red only for key warnings/problems/results. Blue only for secondary notes or feedback/system state.
+Black for all line art and Mochi characters.
+Orange for conveyor paths and arrows showing the endless loop.
+Red only for warning emphasis such as 「无限循环」.
+Blue only for secondary notes and feedback annotations.
 
 Constraints:
-One image explains only one core structure. Keep the main subject around 40%-60% of the canvas. Preserve at least 35% blank white space. Use at most 5-8 short handwritten Chinese labels. Do not write a title in the top-left corner. Do not write the structure type on the image. Do not make it a formal diagram, course slide, or dense explainer. Do not copy prior examples or reuse known case compositions unless explicitly requested; invent a fresh visual metaphor for this specific article. It should be clear but not instructional, interesting but not childish, strange but clean.
+One image explains only one core structure. Keep the main subject around 40%-60% of the canvas. Preserve at least 35% blank white space. Use at most 5-8 short handwritten Chinese labels. Do not write a title in the top-left corner. Do not write the structure type on the image. Do not make it a formal diagram, course slide, or dense explainer. Make it strange but clean, funny but deadpan, relatable but not childish. The humor should come from how seriously Mochi participates in an obviously absurd system.
 ```
 
 ## 图像编辑提示
